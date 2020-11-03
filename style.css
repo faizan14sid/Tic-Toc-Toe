@@ -13,7 +13,7 @@ section {
     grid-template-columns: repeat(3, auto);
     width: 306px;
     margin: 50px auto;
-    background-color: black;
+    background-color: lightblue;
     align-content: center;
     
 }

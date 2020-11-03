@@ -6,6 +6,7 @@ body {
 section {
     text-align: center;
     font-size: 30px;
+    color : lightpink;
 }
 
 .game--container {
